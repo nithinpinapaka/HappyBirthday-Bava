@@ -17,8 +17,8 @@
 function makeTimer() {
 
     //		var endTime = new Date("29 April 2018 9:56:00 GMT+01:00");	
-    var endTime = new Date("17 May 2020 00:10:00 GMT+05:30");
-  //var endTime = new Date("15 May 2020 16:09:25 GMT+05:30");
+   // var endTime = new Date("17 May 2020 00:10:00 GMT+05:30");
+  var endTime = new Date("16 May 2020 23:43:00 GMT+05:30");
  
    endTime = (Date.parse(endTime) / 1000);
 
